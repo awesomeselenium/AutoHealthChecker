@@ -18,7 +18,7 @@ def START(): #webdriver 설정
 def AHC(name, birth,password):
     time.sleep(2)
     driver.implicitly_wait(10)
-    driver.find_element_by_xpath('//*[@id="eventLayer"]/section[2]/button[2]').click() #앱설치 무시 웹으로 계속함
+    #driver.find_element_by_xpath('//*[@id="eventLayer"]/section[2]/button[2]').click() #앱설치 무시 웹으로 계속함
     driver.implicitly_wait(10)
     time.sleep(2)
     driver.find_element_by_xpath('//*[@id="btnConfirm2"]').click() #다음 페이지로 넘어감
