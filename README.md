@@ -12,7 +12,7 @@
 ||||||||
 
 ## 요구 사항
-Selenium과 Openpyxl (pip install ~)으로 설치  
+Selenium, Openpyxl, webdriver-manager (pip install ~)으로 설치  
 [Chrome webdriver](https://chromedriver.chromium.org/downloads) 다운받아서 .py 파일과 같은 폴더에 위치시킴  
 studentlist.xlsx 파일도 같은 폴더에 위치  
 [파이썬 최신 버전](https://www.python.org/downloads/)
