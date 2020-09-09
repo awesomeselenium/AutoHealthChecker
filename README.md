@@ -1,4 +1,5 @@
 # AutoHealthChecker
+[![Generic badge](https://img.shields.io/badge/Language-Python3-3776AB?logo=python)](https://python.org)  
 전국 시도교육청 통합 자가진단 hcs.eduro.go.kr 대응 자가진단 매크로  
 절대 악용하지 말 것이며, 구두로 모든 학생의 상태를 물어본 후 자원이 부족할 경우에 사용할 것
 
