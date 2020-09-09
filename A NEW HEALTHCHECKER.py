@@ -1,6 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.support.select import Select
 from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
 from openpyxl import load_workbook
 import time
 
@@ -11,7 +12,7 @@ delay=2
 def START():
     Options().add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36")
     global driver 
-    driver = webdriver.Chrome('chromedriver')
+    driver = webdriver.Chrome(ChromeDriverManager().install())
     driver.get("https://hcs.eduro.go.kr/#/loginHome")
     time.sleep(1)
     
