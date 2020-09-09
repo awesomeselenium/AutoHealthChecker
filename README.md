@@ -1,5 +1,5 @@
 # AutoHealthChecker
-[![Generic badge](https://img.shields.io/badge/Language-Python3-3776AB?logo=python&style=flat-square)](https://python.org)
+[![Generic badge](https://img.shields.io/badge/Language-Python3-3776AB?logo=python)](https://python.org)
 [![Generic badge](https://img.shields.io/badge/Webdriver-Chrome-4285F4?logo=google-chrome)](https://sites.google.com/a/chromium.org/chromedriver/)
 [![Generic badge](https://img.shields.io/badge/Module-Selenium-43b02a)](https://selenium.dev)  
 ![Generic badge](https://img.shields.io/github/last-commit/awesomeselenium/Autohealthchecker)
