@@ -1,5 +1,10 @@
 # AutoHealthChecker
-[![Generic badge](https://img.shields.io/badge/Language-Python3-3776AB?logo=python)](https://python.org)  
+[![Generic badge](https://img.shields.io/badge/Language-Python3-3776AB?logo=python&style=flat-square)](https://python.org)
+[![Generic badge](https://img.shields.io/badge/Webdriver-Chrome-4285F4?logo=google-chrome)](https://sites.google.com/a/chromium.org/chromedriver/)
+[![Generic badge](https://img.shields.io/badge/Module-Selenium-43b02a)](https://selenium.dev)  
+![Generic badge](https://img.shields.io/github/last-commit/awesomeselenium/Autohealthchecker)
+[![Generic badge](https://img.shields.io/badge/contributor-Minsung--Kang--SHR-007ACC)](https://github.com/Minsung-Kang-SHR)  
+
 전국 시도교육청 통합 자가진단 hcs.eduro.go.kr 대응 자가진단 매크로  
 절대 악용하지 말 것이며, 구두로 모든 학생의 상태를 물어본 후 자원이 부족할 경우에 사용할 것
 
@@ -22,4 +27,3 @@ studentlist.xlsx 파일도 같은 폴더에 위치
 - [ ] 컴퓨터의 Python과 설치되어있는 모듈에 의존하지 않는 EXE 형식으로 배포
 - [ ] Typescript와 같은 언어로 크롬 띄우지 않고 자가진단 할 수 있게 구현
 - [ ] 코드 가독성 수정
-
