@@ -3,7 +3,7 @@
 [![Generic badge](https://img.shields.io/badge/Webdriver-Chrome-4285F4?logo=google-chrome&logoColor=white)](https://sites.google.com/a/chromium.org/chromedriver/)
 [![Generic badge](https://img.shields.io/badge/Module-Selenium-43b02a)](https://selenium.dev)  
 ![Generic badge](https://img.shields.io/github/last-commit/awesomeselenium/Autohealthchecker)
-[![Generic badge](https://img.shields.io/badge/contributor-Minsung--Kang--SHR-007ACC)](https://github.com/Minsung-Kang-SHR)  
+[![Generic badge](https://img.shields.io/badge/contributor-rivkms-007ACC)](https://github.com/Minsung-Kang-SHR)  
 
 전국 시도교육청 통합 자가진단 hcs.eduro.go.kr 대응 자가진단 매크로  
 절대 악용하지 말 것이며, 구두로 모든 학생의 상태를 물어본 후 자원이 부족할 경우에 사용할 것
